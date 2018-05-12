@@ -1,0 +1,31 @@
+_repo: Chattanooga-and-ChickamaugaCommercial-Gazette-August-1888._36067
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boynton, Henry V. (Henry Van)
+    birthdate: 1835
+    deathdate: 1905
+    gutenberg_agent_id: '35463'
+    url: http://www.gutenberg.org/2009/agents/35463
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Boynton
+description: ''
+gutenberg_issued: '2011-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36067'
+  lccn: 05017864
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chickamauga, Battle of, Ga., 1863'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865'
+- !lcsh 'Chattanooga, Battle of, Chattanooga, Tenn., 1863'
+title: "Chattanooga and Chickamauga\r\nReprint of Gen. H. V. Boynton's letters to\
+  \ the Cincinnati Commercial Gazette, August, 1888."
+url: http://www.gutenberg.org/ebooks/36067
